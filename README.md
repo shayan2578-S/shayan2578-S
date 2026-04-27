@@ -1,32 +1,46 @@
-## Hi there 
+## Hi there 👋
 
-Hi, I am Shayan Amjad — a first‑year Data Science & AI student at Leeds Beckett University.  
-I'm still early in my journey, but I'm really interested in machine learning, data analysis, and understanding how AI models work behind the scenes.
+Hi, I’m **Shayan Amjad**, a first‑year **Data Science & AI** student at **Leeds Beckett University**.
 
-Right now I'm focusing on improving my Python skills, getting more comfortable with libraries like NumPy and Pandas, and building small projects as I learn.
+I chose Data Science & AI because it blends **mathematical thinking with practical computing**, and it opens up a wide range of future opportunities. I enjoy understanding *how* things work rather than just using them, whether that’s breaking down an algorithm, analysing data, or improving a piece of code step by step.
 
-I also have some coding experience outside of university, which helped me get used to problem‑solving and writing cleaner code. I'm hoping to start working on more structured projects this year.
+At the moment, I’m focused on building strong foundations in **Python**, getting confident with **NumPy and Pandas**, and starting to explore how data analysis and machine learning ideas work in practice. I’m also beginning to learn **R**, which is helping me think differently about data and statistical problems.
 
-My goal for now is simple: learn consistently, build things that actually work, and slowly develop the skills needed for ML and AI projects.
+Outside of university, I work **part‑time in a warehouse environment**, which has helped me develop strong **time‑management**, **work ethic**, and **teamwork** skills alongside my studies. I commute long hours each day, so I’ve learned how to organise my time effectively and stay consistent with my learning.
 
-🧪 I’m currently working on:  
-Building small Python projects and starting to explore basic machine learning models.
+I’ve also had experience in **leadership roles**, including acting as a house captain in high school and leading university group presentations, where I helped coordinate teamwork and contribute to achieving solid results. I’ve previously done **basic accounting work** for a printing company, which gave me early exposure to working with numbers, records, and responsibility.
 
-📚 I’m currently learning:  
-Pandas, NumPy, data analysis techniques, and the maths behind ML.
+I enjoy challenges that require logical thinking and persistence — whether that’s solving coding problems, tackling university work, or playing games that keep my brain active. I also have an interest in **origami**, which I like because it shows how simple inputs can be transformed into complex structures — something that oddly mirrors programming.
 
-🤝 I’m looking to collaborate on:  
-Beginner-friendly Python or data projects, anything that helps me learn and grow.
+---
 
-❓ I’m looking for help with:  
-Improving my problem‑solving skills and writing cleaner, more efficient code.
+### 🧪 I’m currently working on
+- Small Python programs to strengthen problem‑solving skills  
+- Basic data analysis tasks using real datasets  
+- Exploring introductory machine learning concepts  
 
-💬 Ask me about:  
-My learning journey, Python basics, or anything related to starting out in AI.
+### 📚 I’m currently learning
+- Python for data analysis  
+- Introductory statistics and maths for ML  
+- R for statistical analysis  
 
-📫 How to reach me:  
-linkedln: www.linkedin.com/in/shayan-amjaduk
+### 🤝 I’m open to collaborating on
+- Beginner‑friendly Python or data science projects  
+- Study or practice projects with other students  
+- Anything that helps build real understanding, not just surface‑level code  
 
-✨ Fun fact:  
-I enjoy challenges, and pushing myself to achieve what i believed at first to be impossible. i also enjoy simple games that keep my brain active and quick, such as word search or sudoku.
+### ❓ I’m looking to improve
+- Writing cleaner and more structured code  
+- Thinking more efficiently about problem decomposition  
+- Applying theory to practical projects  
 
+### 💬 Ask me about
+- My learning journey in Data Science & AI  
+- Python basics and early data analysis  
+- Balancing university, work, and self‑learning  
+
+### 📫 How to reach me
+- **LinkedIn:** https://www.linkedin.com/in/shayan-amjaduk
+
+✨ **Fun fact:**  
+I enjoy challenges that push me past what I first think I’m capable of, and I like problem‑focused games and activities that reward patience, logic, and consistency.
